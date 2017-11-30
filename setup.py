@@ -23,7 +23,8 @@ setup(
     long_description="""\
 Algorithmic Methods of Data Mining - Final Project
 """,
-    install_requires=['matplotlib',
+    install_requires=['jupyter',
+                      'matplotlib',
                       'pystan',
                       'numpy'],
     python_requires='>=3.4'
